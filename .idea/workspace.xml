@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a46cc025-143f-4930-86b7-6e7f1dbef76f" name="Changes" comment="tdd start">
-      <change afterPath="$PROJECT_DIR$/src/main/java/FizzBuzz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/FizzBuzzTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="a46cc025-143f-4930-86b7-6e7f1dbef76f" name="Changes" comment="Buzz case">
+      <change beforePath="$PROJECT_DIR$/src/test/java/FizzBuzzTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/FizzBuzzTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,11 +66,29 @@
       <option name="project" value="LOCAL" />
       <updated>1703678077740</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="first and second test">
+      <option name="closed" value="true" />
+      <created>1703679149178</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1703679149178</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Buzz case">
+      <option name="closed" value="true" />
+      <created>1703679261289</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1703679261289</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="tdd start" />
-    <option name="LAST_COMMIT_MESSAGE" value="tdd start" />
+    <MESSAGE value="first and second test" />
+    <MESSAGE value="Buzz case" />
+    <option name="LAST_COMMIT_MESSAGE" value="Buzz case" />
   </component>
 </project>

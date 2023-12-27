@@ -17,4 +17,9 @@ public class FizzBuzzTests {
     public void should_said_Fizz_when_is_a_multiple_of_5() {
         assertThat(new FizzBuzz(5).sound()).isEqualTo("Buzz");
     }
+
+    @Test
+    public void should_said_Fizz_when_is_a_multiple_of_3_and_5() {
+        assertThat(new FizzBuzz(15).sound()).isEqualTo("FizzBuzz");
+    }
 }
