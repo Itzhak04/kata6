@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a46cc025-143f-4930-86b7-6e7f1dbef76f" name="Changes" comment="Buzz case">
-      <change beforePath="$PROJECT_DIR$/src/test/java/FizzBuzzTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/FizzBuzzTests.java" afterDir="false" />
+    <list default="true" id="a46cc025-143f-4930-86b7-6e7f1dbef76f" name="Changes" comment="FizzBuzz case">
+      <change beforePath="$PROJECT_DIR$/src/main/java/FizzBuzz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/FizzBuzz.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,13 +82,22 @@
       <option name="project" value="LOCAL" />
       <updated>1703679261289</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="FizzBuzz case">
+      <option name="closed" value="true" />
+      <created>1703679399571</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1703679399571</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="tdd start" />
     <MESSAGE value="first and second test" />
     <MESSAGE value="Buzz case" />
-    <option name="LAST_COMMIT_MESSAGE" value="Buzz case" />
+    <MESSAGE value="FizzBuzz case" />
+    <option name="LAST_COMMIT_MESSAGE" value="FizzBuzz case" />
   </component>
 </project>
